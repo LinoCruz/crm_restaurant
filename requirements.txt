@@ -1,0 +1,5 @@
+djangorestframework
+drf-yasg
+python-decouple
+mysqlclient
+django-cors-headers
